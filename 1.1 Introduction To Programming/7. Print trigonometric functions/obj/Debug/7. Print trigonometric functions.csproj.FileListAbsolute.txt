@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.1 Introduction To Programming\7. Print trigonometric functions\bin\Debug\_7.Print_trigonometric_functions.exe.config
+D:\ZaRibaAcademy\1.1 Introduction To Programming\7. Print trigonometric functions\bin\Debug\_7.Print_trigonometric_functions.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\7. Print trigonometric functions\bin\Debug\_7.Print_trigonometric_functions.pdb
+D:\ZaRibaAcademy\1.1 Introduction To Programming\7. Print trigonometric functions\obj\Debug\7. Print trigonometric functions.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.1 Introduction To Programming\7. Print trigonometric functions\obj\Debug\_7.Print_trigonometric_functions.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\7. Print trigonometric functions\obj\Debug\_7.Print_trigonometric_functions.pdb

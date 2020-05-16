@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.5 Conditional Statements\7.FindSubset\bin\Debug\7.FindSubset.exe.config
+D:\ZaRibaAcademy\1.5 Conditional Statements\7.FindSubset\bin\Debug\7.FindSubset.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\7.FindSubset\bin\Debug\7.FindSubset.pdb
+D:\ZaRibaAcademy\1.5 Conditional Statements\7.FindSubset\obj\Debug\7.FindSubset.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.5 Conditional Statements\7.FindSubset\obj\Debug\7.FindSubset.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\7.FindSubset\obj\Debug\7.FindSubset.pdb
+D:\ZaRibaAcademy\1.5 Conditional Statements\7.FindSubset\obj\Debug\7.FindSubset.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.6 loops\10.EasyMatrix\bin\Debug\10.EasyMatrix.exe.config
+D:\ZaRibaAcademy\1.6 loops\10.EasyMatrix\bin\Debug\10.EasyMatrix.exe
+D:\ZaRibaAcademy\1.6 loops\10.EasyMatrix\bin\Debug\10.EasyMatrix.pdb
+D:\ZaRibaAcademy\1.6 loops\10.EasyMatrix\obj\Debug\10.EasyMatrix.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\10.EasyMatrix\obj\Debug\10.EasyMatrix.exe
+D:\ZaRibaAcademy\1.6 loops\10.EasyMatrix\obj\Debug\10.EasyMatrix.pdb

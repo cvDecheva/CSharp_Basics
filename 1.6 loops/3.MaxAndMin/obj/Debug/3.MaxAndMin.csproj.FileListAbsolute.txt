@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.6 loops\3.MaxAndMin\bin\Debug\3.MaxAndMin.exe.config
+D:\ZaRibaAcademy\1.6 loops\3.MaxAndMin\bin\Debug\3.MaxAndMin.exe
+D:\ZaRibaAcademy\1.6 loops\3.MaxAndMin\bin\Debug\3.MaxAndMin.pdb
+D:\ZaRibaAcademy\1.6 loops\3.MaxAndMin\obj\Debug\3.MaxAndMin.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\3.MaxAndMin\obj\Debug\3.MaxAndMin.exe
+D:\ZaRibaAcademy\1.6 loops\3.MaxAndMin\obj\Debug\3.MaxAndMin.pdb

@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.3 Console Input And Output\3.QuadraticEquation\bin\Debug\3.QuadraticEquation.exe.config
+D:\ZaRibaAcademy\1.3 Console Input And Output\3.QuadraticEquation\bin\Debug\3.QuadraticEquation.exe
+D:\ZaRibaAcademy\1.3 Console Input And Output\3.QuadraticEquation\bin\Debug\3.QuadraticEquation.pdb
+D:\ZaRibaAcademy\1.3 Console Input And Output\3.QuadraticEquation\obj\Debug\3.QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.3 Console Input And Output\3.QuadraticEquation\obj\Debug\3.QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.3 Console Input And Output\3.QuadraticEquation\obj\Debug\3.QuadraticEquation.exe
+D:\ZaRibaAcademy\1.3 Console Input And Output\3.QuadraticEquation\obj\Debug\3.QuadraticEquation.pdb

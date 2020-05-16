@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.6 loops\11.DifficultMatrix\bin\Debug\11.DifficultMatrix.exe.config
+D:\ZaRibaAcademy\1.6 loops\11.DifficultMatrix\bin\Debug\11.DifficultMatrix.exe
+D:\ZaRibaAcademy\1.6 loops\11.DifficultMatrix\bin\Debug\11.DifficultMatrix.pdb
+D:\ZaRibaAcademy\1.6 loops\11.DifficultMatrix\obj\Debug\11.DifficultMatrix.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.6 loops\11.DifficultMatrix\obj\Debug\11.DifficultMatrix.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\11.DifficultMatrix\obj\Debug\11.DifficultMatrix.exe
+D:\ZaRibaAcademy\1.6 loops\11.DifficultMatrix\obj\Debug\11.DifficultMatrix.pdb

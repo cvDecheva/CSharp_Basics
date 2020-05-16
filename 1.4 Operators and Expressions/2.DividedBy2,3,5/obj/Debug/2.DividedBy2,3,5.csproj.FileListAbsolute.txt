@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.4 Operators and Expressions\2.DividedBy2,3,5\bin\Debug\2.DividedBy2,3,5.exe.config
+D:\ZaRibaAcademy\1.4 Operators and Expressions\2.DividedBy2,3,5\bin\Debug\2.DividedBy2,3,5.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\2.DividedBy2,3,5\bin\Debug\2.DividedBy2,3,5.pdb
+D:\ZaRibaAcademy\1.4 Operators and Expressions\2.DividedBy2,3,5\obj\Debug\2.DividedBy2,3,5.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.4 Operators and Expressions\2.DividedBy2,3,5\obj\Debug\2.DividedBy2,3,5.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\2.DividedBy2,3,5\obj\Debug\2.DividedBy2,3,5.pdb

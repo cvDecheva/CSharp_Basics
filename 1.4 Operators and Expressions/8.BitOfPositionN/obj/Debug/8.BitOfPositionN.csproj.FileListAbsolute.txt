@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.BitOfPositionN\bin\Debug\7.BitOfPositionN.exe.config
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.BitOfPositionN\bin\Debug\7.BitOfPositionN.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.BitOfPositionN\bin\Debug\7.BitOfPositionN.pdb
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.BitOfPositionN\obj\Debug\8.BitOfPositionN.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.BitOfPositionN\obj\Debug\7.BitOfPositionN.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.BitOfPositionN\obj\Debug\7.BitOfPositionN.pdb

@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.1 Introduction To Programming\6. Print numbers\bin\Debug\_6.Print_numbers.exe.config
+D:\ZaRibaAcademy\1.1 Introduction To Programming\6. Print numbers\bin\Debug\_6.Print_numbers.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\6. Print numbers\bin\Debug\_6.Print_numbers.pdb
+D:\ZaRibaAcademy\1.1 Introduction To Programming\6. Print numbers\obj\Debug\6. Print numbers.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.1 Introduction To Programming\6. Print numbers\obj\Debug\_6.Print_numbers.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\6. Print numbers\obj\Debug\_6.Print_numbers.pdb
+D:\ZaRibaAcademy\1.1 Introduction To Programming\6. Print numbers\obj\Debug\6. Print numbers.csprojResolveAssemblyReference.cache

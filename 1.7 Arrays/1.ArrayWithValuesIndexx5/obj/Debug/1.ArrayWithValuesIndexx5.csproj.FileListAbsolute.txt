@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.7 Arrays\1.ArrayWithValuesIndexx5\bin\Debug\1.ArrayWithValuesIndexx5.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\1.ArrayWithValuesIndexx5\bin\Debug\1.ArrayWithValuesIndexx5.exe
+D:\ZaRibaAcademy\1.7 Arrays\1.ArrayWithValuesIndexx5\bin\Debug\1.ArrayWithValuesIndexx5.pdb
+D:\ZaRibaAcademy\1.7 Arrays\1.ArrayWithValuesIndexx5\obj\Debug\1.ArrayWithValuesIndexx5.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\1.ArrayWithValuesIndexx5\obj\Debug\1.ArrayWithValuesIndexx5.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\1.ArrayWithValuesIndexx5\obj\Debug\1.ArrayWithValuesIndexx5.exe
+D:\ZaRibaAcademy\1.7 Arrays\1.ArrayWithValuesIndexx5\obj\Debug\1.ArrayWithValuesIndexx5.pdb

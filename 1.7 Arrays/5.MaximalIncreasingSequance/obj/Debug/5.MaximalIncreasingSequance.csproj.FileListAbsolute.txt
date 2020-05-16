@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.7 Arrays\5.MaximalIncreasingSequance\bin\Debug\5.MaximalIncreasingSequance.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\5.MaximalIncreasingSequance\bin\Debug\5.MaximalIncreasingSequance.exe
+D:\ZaRibaAcademy\1.7 Arrays\5.MaximalIncreasingSequance\bin\Debug\5.MaximalIncreasingSequance.pdb
+D:\ZaRibaAcademy\1.7 Arrays\5.MaximalIncreasingSequance\obj\Debug\5.MaximalIncreasingSequance.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\5.MaximalIncreasingSequance\obj\Debug\5.MaximalIncreasingSequance.exe
+D:\ZaRibaAcademy\1.7 Arrays\5.MaximalIncreasingSequance\obj\Debug\5.MaximalIncreasingSequance.pdb

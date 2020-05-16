@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.3 Console Input And Output\2.GreaterOf2NumbersWithoutIf\bin\Debug\2.GreaterOf2NumbersWithoutIf.exe.config
+D:\ZaRibaAcademy\1.3 Console Input And Output\2.GreaterOf2NumbersWithoutIf\bin\Debug\2.GreaterOf2NumbersWithoutIf.exe
+D:\ZaRibaAcademy\1.3 Console Input And Output\2.GreaterOf2NumbersWithoutIf\bin\Debug\2.GreaterOf2NumbersWithoutIf.pdb
+D:\ZaRibaAcademy\1.3 Console Input And Output\2.GreaterOf2NumbersWithoutIf\obj\Debug\2.GreaterOf2NumbersWithoutIf.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.3 Console Input And Output\2.GreaterOf2NumbersWithoutIf\obj\Debug\2.GreaterOf2NumbersWithoutIf.exe
+D:\ZaRibaAcademy\1.3 Console Input And Output\2.GreaterOf2NumbersWithoutIf\obj\Debug\2.GreaterOf2NumbersWithoutIf.pdb

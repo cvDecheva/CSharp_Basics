@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.4 Operators and Expressions\4.IsThirdDigit3\bin\Debug\4.IsThirdDigit3.exe.config
+D:\ZaRibaAcademy\1.4 Operators and Expressions\4.IsThirdDigit3\bin\Debug\4.IsThirdDigit3.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\4.IsThirdDigit3\bin\Debug\4.IsThirdDigit3.pdb
+D:\ZaRibaAcademy\1.4 Operators and Expressions\4.IsThirdDigit3\obj\Debug\4.IsThirdDigit3.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.4 Operators and Expressions\4.IsThirdDigit3\obj\Debug\4.IsThirdDigit3.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\4.IsThirdDigit3\obj\Debug\4.IsThirdDigit3.pdb

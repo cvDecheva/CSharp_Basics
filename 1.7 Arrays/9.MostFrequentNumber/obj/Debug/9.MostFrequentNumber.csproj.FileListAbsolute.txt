@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.7 Arrays\9.MostFrequentNumber\bin\Debug\9.MostFrequentNumber.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\9.MostFrequentNumber\bin\Debug\9.MostFrequentNumber.exe
+D:\ZaRibaAcademy\1.7 Arrays\9.MostFrequentNumber\bin\Debug\9.MostFrequentNumber.pdb
+D:\ZaRibaAcademy\1.7 Arrays\9.MostFrequentNumber\obj\Debug\9.MostFrequentNumber.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\9.MostFrequentNumber\obj\Debug\9.MostFrequentNumber.exe
+D:\ZaRibaAcademy\1.7 Arrays\9.MostFrequentNumber\obj\Debug\9.MostFrequentNumber.pdb

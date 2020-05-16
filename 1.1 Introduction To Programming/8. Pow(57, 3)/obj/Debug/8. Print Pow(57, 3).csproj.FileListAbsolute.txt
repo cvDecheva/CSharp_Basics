@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.1 Introduction To Programming\8. Pow(57, 3)\bin\Debug\_8.Pow_57__3_.exe.config
+D:\ZaRibaAcademy\1.1 Introduction To Programming\8. Pow(57, 3)\bin\Debug\_8.Pow_57__3_.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\8. Pow(57, 3)\bin\Debug\_8.Pow_57__3_.pdb
+D:\ZaRibaAcademy\1.1 Introduction To Programming\8. Pow(57, 3)\obj\Debug\8. Print Pow(57, 3).csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.1 Introduction To Programming\8. Pow(57, 3)\obj\Debug\_8.Pow_57__3_.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\8. Pow(57, 3)\obj\Debug\_8.Pow_57__3_.pdb

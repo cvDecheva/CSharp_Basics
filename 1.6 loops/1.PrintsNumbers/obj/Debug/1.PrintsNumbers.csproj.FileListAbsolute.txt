@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.6 loops\1.PrintsNumbers\bin\Debug\1.PrintsNumbers.exe.config
+D:\ZaRibaAcademy\1.6 loops\1.PrintsNumbers\bin\Debug\1.PrintsNumbers.exe
+D:\ZaRibaAcademy\1.6 loops\1.PrintsNumbers\bin\Debug\1.PrintsNumbers.pdb
+D:\ZaRibaAcademy\1.6 loops\1.PrintsNumbers\obj\Debug\1.PrintsNumbers.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.6 loops\1.PrintsNumbers\obj\Debug\1.PrintsNumbers.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\1.PrintsNumbers\obj\Debug\1.PrintsNumbers.exe
+D:\ZaRibaAcademy\1.6 loops\1.PrintsNumbers\obj\Debug\1.PrintsNumbers.pdb

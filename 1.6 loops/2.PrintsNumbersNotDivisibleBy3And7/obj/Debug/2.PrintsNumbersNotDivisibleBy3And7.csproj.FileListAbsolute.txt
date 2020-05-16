@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.6 loops\2.PrintsNumbersNotDivisibleBy3And7\bin\Debug\2.PrintsNumbersNotDivisibleBy3And7.exe.config
+D:\ZaRibaAcademy\1.6 loops\2.PrintsNumbersNotDivisibleBy3And7\bin\Debug\2.PrintsNumbersNotDivisibleBy3And7.exe
+D:\ZaRibaAcademy\1.6 loops\2.PrintsNumbersNotDivisibleBy3And7\bin\Debug\2.PrintsNumbersNotDivisibleBy3And7.pdb
+D:\ZaRibaAcademy\1.6 loops\2.PrintsNumbersNotDivisibleBy3And7\obj\Debug\2.PrintsNumbersNotDivisibleBy3And7.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\2.PrintsNumbersNotDivisibleBy3And7\obj\Debug\2.PrintsNumbersNotDivisibleBy3And7.exe
+D:\ZaRibaAcademy\1.6 loops\2.PrintsNumbersNotDivisibleBy3And7\obj\Debug\2.PrintsNumbersNotDivisibleBy3And7.pdb

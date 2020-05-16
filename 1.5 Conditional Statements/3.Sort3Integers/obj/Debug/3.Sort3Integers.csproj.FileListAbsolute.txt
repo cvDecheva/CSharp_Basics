@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.5 Conditional Statements\3.Sort3Integers\bin\Debug\3.Sort3Integers.exe.config
+D:\ZaRibaAcademy\1.5 Conditional Statements\3.Sort3Integers\bin\Debug\3.Sort3Integers.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\3.Sort3Integers\bin\Debug\3.Sort3Integers.pdb
+D:\ZaRibaAcademy\1.5 Conditional Statements\3.Sort3Integers\obj\Debug\3.Sort3Integers.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.5 Conditional Statements\3.Sort3Integers\obj\Debug\3.Sort3Integers.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\3.Sort3Integers\obj\Debug\3.Sort3Integers.pdb

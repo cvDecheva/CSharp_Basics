@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\2.RectangularMatrix\bin\Debug\2.RectangularMatrix.exe.config
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\2.RectangularMatrix\bin\Debug\2.RectangularMatrix.exe
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\2.RectangularMatrix\bin\Debug\2.RectangularMatrix.pdb
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\2.RectangularMatrix\obj\Debug\2.RectangularMatrix.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\2.RectangularMatrix\obj\Debug\2.RectangularMatrix.exe
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\2.RectangularMatrix\obj\Debug\2.RectangularMatrix.pdb
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\2.RectangularMatrix\obj\Debug\2.RectangularMatrix.csprojResolveAssemblyReference.cache

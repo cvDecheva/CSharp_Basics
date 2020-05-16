@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.4 Operators and Expressions\3.Trapezium\bin\Debug\3.Trapezium.exe.config
+D:\ZaRibaAcademy\1.4 Operators and Expressions\3.Trapezium\bin\Debug\3.Trapezium.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\3.Trapezium\bin\Debug\3.Trapezium.pdb
+D:\ZaRibaAcademy\1.4 Operators and Expressions\3.Trapezium\obj\Debug\3.Trapezium.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.4 Operators and Expressions\3.Trapezium\obj\Debug\3.Trapezium.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\3.Trapezium\obj\Debug\3.Trapezium.pdb

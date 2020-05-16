@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.7 Arrays\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\ZaRibaAcademy\1.7 Arrays\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\ZaRibaAcademy\1.7 Arrays\CommonLibrary\obj\Debug\CommonLibrary.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\ZaRibaAcademy\1.7 Arrays\CommonLibrary\obj\Debug\CommonLibrary.pdb
+D:\ZaRibaAcademy\1.7 Arrays\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache

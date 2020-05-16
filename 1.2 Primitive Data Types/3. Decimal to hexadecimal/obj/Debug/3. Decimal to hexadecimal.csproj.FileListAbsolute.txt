@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.2 Primitive Data Types\3. Decimal to hexadecimal\bin\Debug\_3.Decimal_to_hexadecimal.exe.config
+D:\ZaRibaAcademy\1.2 Primitive Data Types\3. Decimal to hexadecimal\bin\Debug\_3.Decimal_to_hexadecimal.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\3. Decimal to hexadecimal\bin\Debug\_3.Decimal_to_hexadecimal.pdb
+D:\ZaRibaAcademy\1.2 Primitive Data Types\3. Decimal to hexadecimal\obj\Debug\3. Decimal to hexadecimal.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.2 Primitive Data Types\3. Decimal to hexadecimal\obj\Debug\_3.Decimal_to_hexadecimal.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\3. Decimal to hexadecimal\obj\Debug\_3.Decimal_to_hexadecimal.pdb

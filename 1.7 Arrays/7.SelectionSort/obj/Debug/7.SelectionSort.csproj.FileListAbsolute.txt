@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.7 Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.exe
+D:\ZaRibaAcademy\1.7 Arrays\7.SelectionSort\bin\Debug\7.SelectionSort.pdb
+D:\ZaRibaAcademy\1.7 Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.exe
+D:\ZaRibaAcademy\1.7 Arrays\7.SelectionSort\obj\Debug\7.SelectionSort.pdb

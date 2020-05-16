@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Hello Zariba Academy", "4. Hello Zariba Academy\4. Hello Zariba Academy.csproj", "{5357E0BD-EA3E-4584-BF15-04376B987A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Print presonal data", "5. Print presonal data\5. Print presonal data.csproj", "{9A7B5A81-C5FD-4D31-B2C4-9CF5210765EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Print numbers", "6. Print numbers\6. Print numbers.csproj", "{8FCE5367-8A57-4771-9172-D1F6AE59E3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Print trigonometric functions", "7. Print trigonometric functions\7. Print trigonometric functions.csproj", "{2C8425DF-95A3-47D1-9E62-40F8BBF245DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Print Pow(57, 3)", "8. Pow(57, 3)\8. Print Pow(57, 3).csproj", "{AC828EE5-4482-42B3-9CCE-2D8A085307F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Print the remainder", "9. Print the remainder\9. Print the remainder.csproj", "{DB4E1339-816D-45E0-A179-7D539AB08C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Read name", "10. Read name\10. Read name.csproj", "{6D4665B9-F5A9-4601-B591-316F7299E972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5357E0BD-EA3E-4584-BF15-04376B987A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5357E0BD-EA3E-4584-BF15-04376B987A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5357E0BD-EA3E-4584-BF15-04376B987A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5357E0BD-EA3E-4584-BF15-04376B987A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7B5A81-C5FD-4D31-B2C4-9CF5210765EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7B5A81-C5FD-4D31-B2C4-9CF5210765EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7B5A81-C5FD-4D31-B2C4-9CF5210765EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7B5A81-C5FD-4D31-B2C4-9CF5210765EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FCE5367-8A57-4771-9172-D1F6AE59E3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCE5367-8A57-4771-9172-D1F6AE59E3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCE5367-8A57-4771-9172-D1F6AE59E3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCE5367-8A57-4771-9172-D1F6AE59E3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8425DF-95A3-47D1-9E62-40F8BBF245DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8425DF-95A3-47D1-9E62-40F8BBF245DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8425DF-95A3-47D1-9E62-40F8BBF245DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8425DF-95A3-47D1-9E62-40F8BBF245DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC828EE5-4482-42B3-9CCE-2D8A085307F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC828EE5-4482-42B3-9CCE-2D8A085307F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC828EE5-4482-42B3-9CCE-2D8A085307F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC828EE5-4482-42B3-9CCE-2D8A085307F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4E1339-816D-45E0-A179-7D539AB08C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4E1339-816D-45E0-A179-7D539AB08C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4E1339-816D-45E0-A179-7D539AB08C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4E1339-816D-45E0-A179-7D539AB08C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4665B9-F5A9-4601-B591-316F7299E972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4665B9-F5A9-4601-B591-316F7299E972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4665B9-F5A9-4601-B591-316F7299E972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4665B9-F5A9-4601-B591-316F7299E972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C0EB4B2-89D8-41F6-9836-4A6EAA6AF73C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\bin\Debug\1.PrintMatrixNByN.exe.config
+C:\Users\User\source\repos\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\bin\Debug\1.PrintMatrixNByN.exe
+C:\Users\User\source\repos\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\bin\Debug\1.PrintMatrixNByN.pdb
+C:\Users\User\source\repos\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\obj\Debug\1.PrintMatrixNByN.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\obj\Debug\1.PrintMatrixNByN.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\obj\Debug\1.PrintMatrixNByN.exe
+C:\Users\User\source\repos\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\obj\Debug\1.PrintMatrixNByN.pdb
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\bin\Debug\1.PrintMatrixNByN.exe.config
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\bin\Debug\1.PrintMatrixNByN.exe
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\bin\Debug\1.PrintMatrixNByN.pdb
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\obj\Debug\1.PrintMatrixNByN.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\obj\Debug\1.PrintMatrixNByN.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\obj\Debug\1.PrintMatrixNByN.exe
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\1.PrintMatrixNByN\obj\Debug\1.PrintMatrixNByN.pdb

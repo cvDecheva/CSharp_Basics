@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.6 loops\8.GCD\bin\Debug\8.GCD.exe.config
+D:\ZaRibaAcademy\1.6 loops\8.GCD\bin\Debug\8.GCD.exe
+D:\ZaRibaAcademy\1.6 loops\8.GCD\bin\Debug\8.GCD.pdb
+D:\ZaRibaAcademy\1.6 loops\8.GCD\obj\Debug\8.GCD.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.6 loops\8.GCD\obj\Debug\8.GCD.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\8.GCD\obj\Debug\8.GCD.exe
+D:\ZaRibaAcademy\1.6 loops\8.GCD\obj\Debug\8.GCD.pdb

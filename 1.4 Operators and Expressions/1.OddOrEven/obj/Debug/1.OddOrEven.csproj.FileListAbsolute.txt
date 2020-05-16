@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.OddOrEven\bin\Debug\1.OddOrEven.exe.config
+D:\ZaRibaAcademy\1.OddOrEven\bin\Debug\1.OddOrEven.exe
+D:\ZaRibaAcademy\1.OddOrEven\bin\Debug\1.OddOrEven.pdb
+D:\ZaRibaAcademy\1.OddOrEven\obj\Debug\1.OddOrEven.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.OddOrEven\obj\Debug\1.OddOrEven.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.OddOrEven\obj\Debug\1.OddOrEven.exe
+D:\ZaRibaAcademy\1.OddOrEven\obj\Debug\1.OddOrEven.pdb

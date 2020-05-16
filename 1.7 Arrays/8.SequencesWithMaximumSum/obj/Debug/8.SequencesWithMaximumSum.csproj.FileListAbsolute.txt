@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.7 Arrays\8.SequencesWithMaximumSum\bin\Debug\8.SequencesWithMaximumSum.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\8.SequencesWithMaximumSum\bin\Debug\8.SequencesWithMaximumSum.exe
+D:\ZaRibaAcademy\1.7 Arrays\8.SequencesWithMaximumSum\bin\Debug\8.SequencesWithMaximumSum.pdb
+D:\ZaRibaAcademy\1.7 Arrays\8.SequencesWithMaximumSum\obj\Debug\8.SequencesWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\8.SequencesWithMaximumSum\obj\Debug\8.SequencesWithMaximumSum.exe
+D:\ZaRibaAcademy\1.7 Arrays\8.SequencesWithMaximumSum\obj\Debug\8.SequencesWithMaximumSum.pdb

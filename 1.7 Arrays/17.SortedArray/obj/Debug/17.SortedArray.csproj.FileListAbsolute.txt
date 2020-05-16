@@ -1,0 +1,9 @@
+D:\ZaRibaAcademy\1.7 Arrays\17.SortedArray\bin\Debug\17.SortedArray.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\17.SortedArray\bin\Debug\17.SortedArray.exe
+D:\ZaRibaAcademy\1.7 Arrays\17.SortedArray\bin\Debug\17.SortedArray.pdb
+D:\ZaRibaAcademy\1.7 Arrays\17.SortedArray\obj\Debug\17.SortedArray.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\17.SortedArray\obj\Debug\17.SortedArray.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\17.SortedArray\obj\Debug\17.SortedArray.exe
+D:\ZaRibaAcademy\1.7 Arrays\17.SortedArray\obj\Debug\17.SortedArray.pdb
+D:\ZaRibaAcademy\1.7 Arrays\17.SortedArray\bin\Debug\CommonLibrary.dll
+D:\ZaRibaAcademy\1.7 Arrays\17.SortedArray\bin\Debug\CommonLibrary.pdb

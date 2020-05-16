@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.PrimeNumber\bin\Debug\7.PrimeNumber.exe.config
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.PrimeNumber\bin\Debug\7.PrimeNumber.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.PrimeNumber\bin\Debug\7.PrimeNumber.pdb
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.PrimeNumber\obj\Debug\7.PrimeNumber.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.PrimeNumber\obj\Debug\7.PrimeNumber.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.PrimeNumber\obj\Debug\7.PrimeNumber.pdb
+D:\ZaRibaAcademy\1.4 Operators and Expressions\7.PrimeNumber\obj\Debug\7.PrimeNumber.csprojResolveAssemblyReference.cache

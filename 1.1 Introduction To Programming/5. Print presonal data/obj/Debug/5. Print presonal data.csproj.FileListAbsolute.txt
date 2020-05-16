@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.1 Introduction To Programming\5. Print presonal data\bin\Debug\_5.Print_presonal_data.exe.config
+D:\ZaRibaAcademy\1.1 Introduction To Programming\5. Print presonal data\bin\Debug\_5.Print_presonal_data.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\5. Print presonal data\bin\Debug\_5.Print_presonal_data.pdb
+D:\ZaRibaAcademy\1.1 Introduction To Programming\5. Print presonal data\obj\Debug\5. Print presonal data.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.1 Introduction To Programming\5. Print presonal data\obj\Debug\_5.Print_presonal_data.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\5. Print presonal data\obj\Debug\_5.Print_presonal_data.pdb

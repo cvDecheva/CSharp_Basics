@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.9 Methods\3.ReverseDecimalNumber\bin\Debug\3.ReverseDecimalNumber.exe.config
+D:\ZaRibaAcademy\1.9 Methods\3.ReverseDecimalNumber\bin\Debug\3.ReverseDecimalNumber.exe
+D:\ZaRibaAcademy\1.9 Methods\3.ReverseDecimalNumber\bin\Debug\3.ReverseDecimalNumber.pdb
+D:\ZaRibaAcademy\1.9 Methods\3.ReverseDecimalNumber\obj\Debug\3.ReverseDecimalNumber.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.9 Methods\3.ReverseDecimalNumber\obj\Debug\3.ReverseDecimalNumber.exe
+D:\ZaRibaAcademy\1.9 Methods\3.ReverseDecimalNumber\obj\Debug\3.ReverseDecimalNumber.pdb
+D:\ZaRibaAcademy\1.9 Methods\3.ReverseDecimalNumber\obj\Debug\3.ReverseDecimalNumber.csprojResolveAssemblyReference.cache

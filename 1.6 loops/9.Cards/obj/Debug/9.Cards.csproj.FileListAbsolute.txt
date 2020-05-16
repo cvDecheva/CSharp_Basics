@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.6 loops\9.Cards\bin\Debug\9.Cards.exe.config
+D:\ZaRibaAcademy\1.6 loops\9.Cards\bin\Debug\9.Cards.exe
+D:\ZaRibaAcademy\1.6 loops\9.Cards\bin\Debug\9.Cards.pdb
+D:\ZaRibaAcademy\1.6 loops\9.Cards\obj\Debug\9.Cards.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.6 loops\9.Cards\obj\Debug\9.Cards.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\9.Cards\obj\Debug\9.Cards.exe
+D:\ZaRibaAcademy\1.6 loops\9.Cards\obj\Debug\9.Cards.pdb

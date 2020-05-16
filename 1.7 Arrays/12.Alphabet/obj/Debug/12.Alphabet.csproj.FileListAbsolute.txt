@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.7 Arrays\12.Alphabet\bin\Debug\12.Alphabet.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\12.Alphabet\bin\Debug\12.Alphabet.exe
+D:\ZaRibaAcademy\1.7 Arrays\12.Alphabet\bin\Debug\12.Alphabet.pdb
+D:\ZaRibaAcademy\1.7 Arrays\12.Alphabet\obj\Debug\12.Alphabet.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\12.Alphabet\obj\Debug\12.Alphabet.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\12.Alphabet\obj\Debug\12.Alphabet.exe
+D:\ZaRibaAcademy\1.7 Arrays\12.Alphabet\obj\Debug\12.Alphabet.pdb

@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.1 Introduction To Programming\10. Read name\bin\Debug\_10.Read_name.exe.config
+D:\ZaRibaAcademy\1.1 Introduction To Programming\10. Read name\bin\Debug\_10.Read_name.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\10. Read name\bin\Debug\_10.Read_name.pdb
+D:\ZaRibaAcademy\1.1 Introduction To Programming\10. Read name\obj\Debug\10. Read name.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.1 Introduction To Programming\10. Read name\obj\Debug\10. Read name.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.1 Introduction To Programming\10. Read name\obj\Debug\_10.Read_name.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\10. Read name\obj\Debug\_10.Read_name.pdb

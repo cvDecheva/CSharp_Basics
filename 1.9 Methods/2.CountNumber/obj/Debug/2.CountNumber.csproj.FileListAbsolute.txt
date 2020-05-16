@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.9 Methods\2.CountNumber\bin\Debug\2.CountNumber.exe.config
+D:\ZaRibaAcademy\1.9 Methods\2.CountNumber\bin\Debug\2.CountNumber.exe
+D:\ZaRibaAcademy\1.9 Methods\2.CountNumber\bin\Debug\2.CountNumber.pdb
+D:\ZaRibaAcademy\1.9 Methods\2.CountNumber\obj\Debug\2.CountNumber.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.9 Methods\2.CountNumber\obj\Debug\2.CountNumber.exe
+D:\ZaRibaAcademy\1.9 Methods\2.CountNumber\obj\Debug\2.CountNumber.pdb

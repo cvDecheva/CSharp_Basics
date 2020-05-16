@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.6 loops\7.Fibonacci\bin\Debug\7.Fibonacci.exe.config
+D:\ZaRibaAcademy\1.6 loops\7.Fibonacci\bin\Debug\7.Fibonacci.exe
+D:\ZaRibaAcademy\1.6 loops\7.Fibonacci\bin\Debug\7.Fibonacci.pdb
+D:\ZaRibaAcademy\1.6 loops\7.Fibonacci\obj\Debug\7.Fibonacci.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.6 loops\7.Fibonacci\obj\Debug\7.Fibonacci.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\7.Fibonacci\obj\Debug\7.Fibonacci.exe
+D:\ZaRibaAcademy\1.6 loops\7.Fibonacci\obj\Debug\7.Fibonacci.pdb

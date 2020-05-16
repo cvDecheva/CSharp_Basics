@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.2 Primitive Data Types\9. Exchange values\bin\Debug\_9.Exchange_values.exe.config
+D:\ZaRibaAcademy\1.2 Primitive Data Types\9. Exchange values\bin\Debug\_9.Exchange_values.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\9. Exchange values\bin\Debug\_9.Exchange_values.pdb
+D:\ZaRibaAcademy\1.2 Primitive Data Types\9. Exchange values\obj\Debug\9. Exchange values.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.2 Primitive Data Types\9. Exchange values\obj\Debug\_9.Exchange_values.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\9. Exchange values\obj\Debug\_9.Exchange_values.pdb

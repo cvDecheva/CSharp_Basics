@@ -1,0 +1,9 @@
+D:\ZaRibaAcademy\1.7 Arrays\6.MaximalSumOfKElements\bin\Debug\6.MaximalSumOfKElements.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\6.MaximalSumOfKElements\bin\Debug\6.MaximalSumOfKElements.exe
+D:\ZaRibaAcademy\1.7 Arrays\6.MaximalSumOfKElements\bin\Debug\6.MaximalSumOfKElements.pdb
+D:\ZaRibaAcademy\1.7 Arrays\6.MaximalSumOfKElements\obj\Debug\6.MaximalSumOfKElements.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\6.MaximalSumOfKElements\obj\Debug\6.MaximalSumOfKElements.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\6.MaximalSumOfKElements\obj\Debug\6.MaximalSumOfKElements.exe
+D:\ZaRibaAcademy\1.7 Arrays\6.MaximalSumOfKElements\obj\Debug\6.MaximalSumOfKElements.pdb
+D:\ZaRibaAcademy\1.7 Arrays\6.MaximalSumOfKElements\bin\Debug\CommonLibrary.dll
+D:\ZaRibaAcademy\1.7 Arrays\6.MaximalSumOfKElements\bin\Debug\CommonLibrary.pdb

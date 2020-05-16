@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.1 Introduction To Programming\4. Hello Zariba Academy\bin\Debug\_4.Hello_Zariba_Academy.exe.config
+D:\ZaRibaAcademy\1.1 Introduction To Programming\4. Hello Zariba Academy\bin\Debug\_4.Hello_Zariba_Academy.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\4. Hello Zariba Academy\bin\Debug\_4.Hello_Zariba_Academy.pdb
+D:\ZaRibaAcademy\1.1 Introduction To Programming\4. Hello Zariba Academy\obj\Debug\4. Hello Zariba Academy.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.1 Introduction To Programming\4. Hello Zariba Academy\obj\Debug\4. Hello Zariba Academy.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.1 Introduction To Programming\4. Hello Zariba Academy\obj\Debug\_4.Hello_Zariba_Academy.exe
+D:\ZaRibaAcademy\1.1 Introduction To Programming\4. Hello Zariba Academy\obj\Debug\_4.Hello_Zariba_Academy.pdb

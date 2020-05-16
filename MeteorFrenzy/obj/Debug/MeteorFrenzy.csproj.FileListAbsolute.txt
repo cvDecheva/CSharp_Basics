@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\MeteorFrenzy\bin\Debug\MeteorFrenzy.exe.config
+C:\Users\User\Desktop\MeteorFrenzy\bin\Debug\MeteorFrenzy.exe
+C:\Users\User\Desktop\MeteorFrenzy\bin\Debug\MeteorFrenzy.pdb
+C:\Users\User\Desktop\MeteorFrenzy\obj\Debug\MeteorFrenzy.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MeteorFrenzy\obj\Debug\MeteorFrenzy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MeteorFrenzy\obj\Debug\MeteorFrenzy.exe
+C:\Users\User\Desktop\MeteorFrenzy\obj\Debug\MeteorFrenzy.pdb

@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\3.LargestIntegerK\bin\Debug\3.LargestIntegerK.exe.config
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\3.LargestIntegerK\bin\Debug\3.LargestIntegerK.exe
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\3.LargestIntegerK\bin\Debug\3.LargestIntegerK.pdb
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\3.LargestIntegerK\obj\Debug\3.LargestIntegerK.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\3.LargestIntegerK\obj\Debug\3.LargestIntegerK.exe
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\3.LargestIntegerK\obj\Debug\3.LargestIntegerK.pdb

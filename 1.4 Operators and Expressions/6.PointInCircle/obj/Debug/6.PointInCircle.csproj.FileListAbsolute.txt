@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.4 Operators and Expressions\6.PointInCircle\bin\Debug\6.PointInCircle.exe.config
+D:\ZaRibaAcademy\1.4 Operators and Expressions\6.PointInCircle\bin\Debug\6.PointInCircle.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\6.PointInCircle\bin\Debug\6.PointInCircle.pdb
+D:\ZaRibaAcademy\1.4 Operators and Expressions\6.PointInCircle\obj\Debug\6.PointInCircle.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.4 Operators and Expressions\6.PointInCircle\obj\Debug\6.PointInCircle.exe
+D:\ZaRibaAcademy\1.4 Operators and Expressions\6.PointInCircle\obj\Debug\6.PointInCircle.pdb

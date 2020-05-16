@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.2 Primitive Data Types\6. String Zariba Academy\bin\Debug\_6.String_Zariba_Academy.exe.config
+D:\ZaRibaAcademy\1.2 Primitive Data Types\6. String Zariba Academy\bin\Debug\_6.String_Zariba_Academy.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\6. String Zariba Academy\bin\Debug\_6.String_Zariba_Academy.pdb
+D:\ZaRibaAcademy\1.2 Primitive Data Types\6. String Zariba Academy\obj\Debug\6. String Zariba Academy.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.2 Primitive Data Types\6. String Zariba Academy\obj\Debug\_6.String_Zariba_Academy.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\6. String Zariba Academy\obj\Debug\_6.String_Zariba_Academy.pdb

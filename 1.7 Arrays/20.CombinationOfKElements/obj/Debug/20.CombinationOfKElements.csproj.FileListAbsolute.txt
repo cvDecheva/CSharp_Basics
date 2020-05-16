@@ -1,0 +1,9 @@
+D:\ZaRibaAcademy\1.7 Arrays\20.CombinationOfKElements\bin\Debug\20.CombinationOfKElements.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\20.CombinationOfKElements\bin\Debug\20.CombinationOfKElements.exe
+D:\ZaRibaAcademy\1.7 Arrays\20.CombinationOfKElements\bin\Debug\20.CombinationOfKElements.pdb
+D:\ZaRibaAcademy\1.7 Arrays\20.CombinationOfKElements\bin\Debug\CommonLibrary.dll
+D:\ZaRibaAcademy\1.7 Arrays\20.CombinationOfKElements\bin\Debug\CommonLibrary.pdb
+D:\ZaRibaAcademy\1.7 Arrays\20.CombinationOfKElements\obj\Debug\20.CombinationOfKElements.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\20.CombinationOfKElements\obj\Debug\20.CombinationOfKElements.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\20.CombinationOfKElements\obj\Debug\20.CombinationOfKElements.exe
+D:\ZaRibaAcademy\1.7 Arrays\20.CombinationOfKElements\obj\Debug\20.CombinationOfKElements.pdb

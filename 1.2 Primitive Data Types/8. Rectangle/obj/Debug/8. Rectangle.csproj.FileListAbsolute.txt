@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.2 Primitive Data Types\8. Rectangle\bin\Debug\_8.Rectangle.exe.config
+D:\ZaRibaAcademy\1.2 Primitive Data Types\8. Rectangle\bin\Debug\_8.Rectangle.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\8. Rectangle\bin\Debug\_8.Rectangle.pdb
+D:\ZaRibaAcademy\1.2 Primitive Data Types\8. Rectangle\obj\Debug\8. Rectangle.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.2 Primitive Data Types\8. Rectangle\obj\Debug\_8.Rectangle.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\8. Rectangle\obj\Debug\_8.Rectangle.pdb

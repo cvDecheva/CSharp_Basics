@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.6 loops\6.Sum\bin\Debug\6.Sum.exe.config
+D:\ZaRibaAcademy\1.6 loops\6.Sum\bin\Debug\6.Sum.exe
+D:\ZaRibaAcademy\1.6 loops\6.Sum\bin\Debug\6.Sum.pdb
+D:\ZaRibaAcademy\1.6 loops\6.Sum\obj\Debug\6.Sum.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.6 loops\6.Sum\obj\Debug\6.Sum.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\6.Sum\obj\Debug\6.Sum.exe
+D:\ZaRibaAcademy\1.6 loops\6.Sum\obj\Debug\6.Sum.pdb

@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.7 Arrays\3.CompareTwoCharArrays\bin\Debug\3.CompareTwoCharArrays.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\3.CompareTwoCharArrays\bin\Debug\3.CompareTwoCharArrays.exe
+D:\ZaRibaAcademy\1.7 Arrays\3.CompareTwoCharArrays\bin\Debug\3.CompareTwoCharArrays.pdb
+D:\ZaRibaAcademy\1.7 Arrays\3.CompareTwoCharArrays\obj\Debug\3.CompareTwoCharArrays.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\3.CompareTwoCharArrays\obj\Debug\3.CompareTwoCharArrays.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\3.CompareTwoCharArrays\obj\Debug\3.CompareTwoCharArrays.exe
+D:\ZaRibaAcademy\1.7 Arrays\3.CompareTwoCharArrays\obj\Debug\3.CompareTwoCharArrays.pdb

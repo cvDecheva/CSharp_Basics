@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\4.Structure\bin\Debug\4.Structure.exe.config
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\4.Structure\bin\Debug\4.Structure.exe
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\4.Structure\bin\Debug\4.Structure.pdb
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\4.Structure\obj\Debug\4.Structure.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\4.Structure\obj\Debug\4.Structure.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\4.Structure\obj\Debug\4.Structure.exe
+D:\ZaRibaAcademy\1.8 Multi-Dimensional Arrays\4.Structure\obj\Debug\4.Structure.pdb

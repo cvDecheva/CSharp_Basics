@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.9 Methods\1.HelloSomebody\bin\Debug\1.HelloSomebody.exe.config
+D:\ZaRibaAcademy\1.9 Methods\1.HelloSomebody\bin\Debug\1.HelloSomebody.exe
+D:\ZaRibaAcademy\1.9 Methods\1.HelloSomebody\bin\Debug\1.HelloSomebody.pdb
+D:\ZaRibaAcademy\1.9 Methods\1.HelloSomebody\obj\Debug\1.HelloSomebody.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.9 Methods\1.HelloSomebody\obj\Debug\1.HelloSomebody.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.9 Methods\1.HelloSomebody\obj\Debug\1.HelloSomebody.exe
+D:\ZaRibaAcademy\1.9 Methods\1.HelloSomebody\obj\Debug\1.HelloSomebody.pdb

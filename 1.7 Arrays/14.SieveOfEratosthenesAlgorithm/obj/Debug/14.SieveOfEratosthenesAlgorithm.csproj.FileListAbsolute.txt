@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.7 Arrays\14.SieveOfEratosthenesAlgorithm\bin\Debug\14.SieveOfEratosthenesAlgorithm.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\14.SieveOfEratosthenesAlgorithm\bin\Debug\14.SieveOfEratosthenesAlgorithm.exe
+D:\ZaRibaAcademy\1.7 Arrays\14.SieveOfEratosthenesAlgorithm\bin\Debug\14.SieveOfEratosthenesAlgorithm.pdb
+D:\ZaRibaAcademy\1.7 Arrays\14.SieveOfEratosthenesAlgorithm\obj\Debug\14.SieveOfEratosthenesAlgorithm.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\14.SieveOfEratosthenesAlgorithm\obj\Debug\14.SieveOfEratosthenesAlgorithm.exe
+D:\ZaRibaAcademy\1.7 Arrays\14.SieveOfEratosthenesAlgorithm\obj\Debug\14.SieveOfEratosthenesAlgorithm.pdb
+D:\ZaRibaAcademy\1.7 Arrays\14.SieveOfEratosthenesAlgorithm\obj\Debug\14.SieveOfEratosthenesAlgorithm.csprojResolveAssemblyReference.cache

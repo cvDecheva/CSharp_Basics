@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.7 Arrays\4.MaximalSequenceOfEqualElements\bin\Debug\4.MaximalSequenceOfEqualElements.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\4.MaximalSequenceOfEqualElements\bin\Debug\4.MaximalSequenceOfEqualElements.exe
+D:\ZaRibaAcademy\1.7 Arrays\4.MaximalSequenceOfEqualElements\bin\Debug\4.MaximalSequenceOfEqualElements.pdb
+D:\ZaRibaAcademy\1.7 Arrays\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.exe
+D:\ZaRibaAcademy\1.7 Arrays\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.pdb
+D:\ZaRibaAcademy\1.7 Arrays\4.MaximalSequenceOfEqualElements\obj\Debug\4.MaximalSequenceOfEqualElements.csprojResolveAssemblyReference.cache

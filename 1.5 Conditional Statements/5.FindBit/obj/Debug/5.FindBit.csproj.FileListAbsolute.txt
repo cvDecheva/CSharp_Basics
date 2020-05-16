@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.5 Conditional Statements\5.FindBit\bin\Debug\5.FindBit.exe.config
+D:\ZaRibaAcademy\1.5 Conditional Statements\5.FindBit\bin\Debug\5.FindBit.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\5.FindBit\bin\Debug\5.FindBit.pdb
+D:\ZaRibaAcademy\1.5 Conditional Statements\5.FindBit\obj\Debug\5.FindBit.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.5 Conditional Statements\5.FindBit\obj\Debug\5.FindBit.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\5.FindBit\obj\Debug\5.FindBit.pdb

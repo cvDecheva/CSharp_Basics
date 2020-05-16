@@ -1,0 +1,9 @@
+D:\ZaRibaAcademy\1.7 Arrays\18.Permutations\bin\Debug\18.Permutations.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\18.Permutations\bin\Debug\18.Permutations.exe
+D:\ZaRibaAcademy\1.7 Arrays\18.Permutations\bin\Debug\18.Permutations.pdb
+D:\ZaRibaAcademy\1.7 Arrays\18.Permutations\obj\Debug\18.Permutations.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\18.Permutations\obj\Debug\18.Permutations.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\18.Permutations\obj\Debug\18.Permutations.exe
+D:\ZaRibaAcademy\1.7 Arrays\18.Permutations\obj\Debug\18.Permutations.pdb
+D:\ZaRibaAcademy\1.7 Arrays\18.Permutations\bin\Debug\CommonLibrary.dll
+D:\ZaRibaAcademy\1.7 Arrays\18.Permutations\bin\Debug\CommonLibrary.pdb

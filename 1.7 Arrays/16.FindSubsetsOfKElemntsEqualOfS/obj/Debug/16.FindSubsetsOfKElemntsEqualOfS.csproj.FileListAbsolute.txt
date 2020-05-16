@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.7 Arrays\16.FindSubsetsOfKElemntsEqualOfS\bin\Debug\16.FindSubsetsOfKElemntsEqualOfS.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\16.FindSubsetsOfKElemntsEqualOfS\bin\Debug\16.FindSubsetsOfKElemntsEqualOfS.exe
+D:\ZaRibaAcademy\1.7 Arrays\16.FindSubsetsOfKElemntsEqualOfS\bin\Debug\16.FindSubsetsOfKElemntsEqualOfS.pdb
+D:\ZaRibaAcademy\1.7 Arrays\16.FindSubsetsOfKElemntsEqualOfS\obj\Debug\16.FindSubsetsOfKElemntsEqualOfS.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\16.FindSubsetsOfKElemntsEqualOfS\obj\Debug\16.FindSubsetsOfKElemntsEqualOfS.exe
+D:\ZaRibaAcademy\1.7 Arrays\16.FindSubsetsOfKElemntsEqualOfS\obj\Debug\16.FindSubsetsOfKElemntsEqualOfS.pdb

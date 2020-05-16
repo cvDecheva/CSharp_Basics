@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.2 Primitive Data Types\2. Compare floating point numebrs\bin\Debug\_2.Compare_floating_point_numebrs.exe.config
+D:\ZaRibaAcademy\1.2 Primitive Data Types\2. Compare floating point numebrs\bin\Debug\_2.Compare_floating_point_numebrs.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\2. Compare floating point numebrs\bin\Debug\_2.Compare_floating_point_numebrs.pdb
+D:\ZaRibaAcademy\1.2 Primitive Data Types\2. Compare floating point numebrs\obj\Debug\2. Compare floating point numebrs.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.2 Primitive Data Types\2. Compare floating point numebrs\obj\Debug\_2.Compare_floating_point_numebrs.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\2. Compare floating point numebrs\obj\Debug\_2.Compare_floating_point_numebrs.pdb

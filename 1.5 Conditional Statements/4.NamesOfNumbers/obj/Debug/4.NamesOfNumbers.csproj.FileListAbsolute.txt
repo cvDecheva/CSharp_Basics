@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.5 Conditional Statements\4.NamesOfNumbers\bin\Debug\4.NamesOfNumbers.exe.config
+D:\ZaRibaAcademy\1.5 Conditional Statements\4.NamesOfNumbers\bin\Debug\4.NamesOfNumbers.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\4.NamesOfNumbers\bin\Debug\4.NamesOfNumbers.pdb
+D:\ZaRibaAcademy\1.5 Conditional Statements\4.NamesOfNumbers\obj\Debug\4.NamesOfNumbers.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.5 Conditional Statements\4.NamesOfNumbers\obj\Debug\4.NamesOfNumbers.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\4.NamesOfNumbers\obj\Debug\4.NamesOfNumbers.pdb

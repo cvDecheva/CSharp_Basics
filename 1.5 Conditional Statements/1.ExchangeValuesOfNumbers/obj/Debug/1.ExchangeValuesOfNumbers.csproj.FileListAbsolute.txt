@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.5 Conditional Statements\1.ExchangeValuesOfNumbers\bin\Debug\1.ExchangeValuesOfNumbers.exe.config
+D:\ZaRibaAcademy\1.5 Conditional Statements\1.ExchangeValuesOfNumbers\bin\Debug\1.ExchangeValuesOfNumbers.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\1.ExchangeValuesOfNumbers\bin\Debug\1.ExchangeValuesOfNumbers.pdb
+D:\ZaRibaAcademy\1.5 Conditional Statements\1.ExchangeValuesOfNumbers\obj\Debug\1.ExchangeValuesOfNumbers.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.5 Conditional Statements\1.ExchangeValuesOfNumbers\obj\Debug\1.ExchangeValuesOfNumbers.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.5 Conditional Statements\1.ExchangeValuesOfNumbers\obj\Debug\1.ExchangeValuesOfNumbers.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\1.ExchangeValuesOfNumbers\obj\Debug\1.ExchangeValuesOfNumbers.pdb

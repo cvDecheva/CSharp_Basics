@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.7 Arrays\15.FindSumInArray\bin\Debug\15.FindSumInArray.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\15.FindSumInArray\bin\Debug\15.FindSumInArray.exe
+D:\ZaRibaAcademy\1.7 Arrays\15.FindSumInArray\bin\Debug\15.FindSumInArray.pdb
+D:\ZaRibaAcademy\1.7 Arrays\15.FindSumInArray\obj\Debug\15.FindSumInArray.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\15.FindSumInArray\obj\Debug\15.FindSumInArray.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\15.FindSumInArray\obj\Debug\15.FindSumInArray.exe
+D:\ZaRibaAcademy\1.7 Arrays\15.FindSumInArray\obj\Debug\15.FindSumInArray.pdb

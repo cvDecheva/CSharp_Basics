@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.6 loops\5Factorials\bin\Debug\5Factorials.exe.config
+D:\ZaRibaAcademy\1.6 loops\5Factorials\bin\Debug\5Factorials.exe
+D:\ZaRibaAcademy\1.6 loops\5Factorials\bin\Debug\5Factorials.pdb
+D:\ZaRibaAcademy\1.6 loops\5Factorials\obj\Debug\5.Factorials.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\5Factorials\obj\Debug\5Factorials.exe
+D:\ZaRibaAcademy\1.6 loops\5Factorials\obj\Debug\5Factorials.pdb

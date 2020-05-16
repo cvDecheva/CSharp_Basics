@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.2 Primitive Data Types\7. Favourite movie\bin\Debug\_7.Favourite_movie.exe.config
+D:\ZaRibaAcademy\1.2 Primitive Data Types\7. Favourite movie\bin\Debug\_7.Favourite_movie.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\7. Favourite movie\bin\Debug\_7.Favourite_movie.pdb
+D:\ZaRibaAcademy\1.2 Primitive Data Types\7. Favourite movie\obj\Debug\7. Favourite movie.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.2 Primitive Data Types\7. Favourite movie\obj\Debug\_7.Favourite_movie.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\7. Favourite movie\obj\Debug\_7.Favourite_movie.pdb

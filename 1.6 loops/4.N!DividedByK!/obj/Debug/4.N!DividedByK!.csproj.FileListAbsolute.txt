@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.6 loops\4.N!DividedByK!\bin\Debug\4.N!DividedByK!.exe.config
+D:\ZaRibaAcademy\1.6 loops\4.N!DividedByK!\bin\Debug\4.N!DividedByK!.exe
+D:\ZaRibaAcademy\1.6 loops\4.N!DividedByK!\bin\Debug\4.N!DividedByK!.pdb
+D:\ZaRibaAcademy\1.6 loops\4.N!DividedByK!\obj\Debug\4.N!DividedByK!.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.6 loops\4.N!DividedByK!\obj\Debug\4.N!DividedByK!.exe
+D:\ZaRibaAcademy\1.6 loops\4.N!DividedByK!\obj\Debug\4.N!DividedByK!.pdb

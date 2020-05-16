@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.2 Primitive Data Types\4. Assign character with Unicode\bin\Debug\_4.Assign_character_with_Unicode.exe.config
+D:\ZaRibaAcademy\1.2 Primitive Data Types\4. Assign character with Unicode\bin\Debug\_4.Assign_character_with_Unicode.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\4. Assign character with Unicode\bin\Debug\_4.Assign_character_with_Unicode.pdb
+D:\ZaRibaAcademy\1.2 Primitive Data Types\4. Assign character with Unicode\obj\Debug\4. Assign character with Unicode.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.2 Primitive Data Types\4. Assign character with Unicode\obj\Debug\_4.Assign_character_with_Unicode.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\4. Assign character with Unicode\obj\Debug\_4.Assign_character_with_Unicode.pdb

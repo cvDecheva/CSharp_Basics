@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.7 Arrays\11.BinarySearching\bin\Debug\11.BinarySearching.exe.config
+D:\ZaRibaAcademy\1.7 Arrays\11.BinarySearching\bin\Debug\11.BinarySearching.exe
+D:\ZaRibaAcademy\1.7 Arrays\11.BinarySearching\bin\Debug\11.BinarySearching.pdb
+D:\ZaRibaAcademy\1.7 Arrays\11.BinarySearching\obj\Debug\11.BinarySearching.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.7 Arrays\11.BinarySearching\obj\Debug\11.BinarySearching.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.7 Arrays\11.BinarySearching\obj\Debug\11.BinarySearching.exe
+D:\ZaRibaAcademy\1.7 Arrays\11.BinarySearching\obj\Debug\11.BinarySearching.pdb

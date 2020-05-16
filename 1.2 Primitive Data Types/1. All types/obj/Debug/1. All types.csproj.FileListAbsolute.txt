@@ -1,0 +1,7 @@
+D:\ZaRibaAcademy\1.2 Primitive Data Types\1. All types\bin\Debug\_1.All_types.exe.config
+D:\ZaRibaAcademy\1.2 Primitive Data Types\1. All types\bin\Debug\_1.All_types.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\1. All types\bin\Debug\_1.All_types.pdb
+D:\ZaRibaAcademy\1.2 Primitive Data Types\1. All types\obj\Debug\1. All types.csprojResolveAssemblyReference.cache
+D:\ZaRibaAcademy\1.2 Primitive Data Types\1. All types\obj\Debug\1. All types.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.2 Primitive Data Types\1. All types\obj\Debug\_1.All_types.exe
+D:\ZaRibaAcademy\1.2 Primitive Data Types\1. All types\obj\Debug\_1.All_types.pdb

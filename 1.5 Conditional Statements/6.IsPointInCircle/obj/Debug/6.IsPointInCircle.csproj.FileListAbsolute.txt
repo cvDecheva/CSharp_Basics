@@ -1,0 +1,6 @@
+D:\ZaRibaAcademy\1.5 Conditional Statements\6.IsPointInCircle\bin\Debug\6.IsPointInCircle.exe.config
+D:\ZaRibaAcademy\1.5 Conditional Statements\6.IsPointInCircle\bin\Debug\6.IsPointInCircle.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\6.IsPointInCircle\bin\Debug\6.IsPointInCircle.pdb
+D:\ZaRibaAcademy\1.5 Conditional Statements\6.IsPointInCircle\obj\Debug\6.IsPointInCircle.csproj.CoreCompileInputs.cache
+D:\ZaRibaAcademy\1.5 Conditional Statements\6.IsPointInCircle\obj\Debug\6.IsPointInCircle.exe
+D:\ZaRibaAcademy\1.5 Conditional Statements\6.IsPointInCircle\obj\Debug\6.IsPointInCircle.pdb
